@@ -22,5 +22,5 @@ Tech Stack Used: <br>
 
 
 
-![project3](https://user-images.githubusercontent.com/88590792/226756531-03768801-480d-4111-aa1a-db11fd4cc606.jpg)
+
 
